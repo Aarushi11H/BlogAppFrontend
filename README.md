@@ -1,2 +1,2 @@
-# BlogAppFrontent
-Blog App Frontent
+# BlogAppFrontend
+Blog App Frontend
