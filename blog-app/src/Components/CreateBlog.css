@@ -1,0 +1,32 @@
+.dialog{
+    border-style: outset;
+}
+.col{
+    padding: 10px 10px;
+    border-radius: 30px;
+}
+.card{
+    border-radius: 30px;;
+}
+
+.btn{
+    border-radius: 30px;;
+}
+.recent-header{
+    margin: auto;
+}
+.form{
+    border:2px solid;
+    border-color: darkcyan;
+    background-color: lightblue;
+    padding:20px;
+
+}
+.input{
+    border:2px solid black;
+}
+@media(min-width:768px){
+    .dialog{
+        margin-right: 40px;
+    }
+}
